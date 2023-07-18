@@ -41,3 +41,21 @@ The `tests.py` module contains unit tests for the key functions using Python's `
 ## Conclusion
 
 This project demonstrates core skills like breaking complex problems into logical components, writing clean and modular code, handling I/O, and writing tests. Creating an engaging game loop and user experience also highlights creativity and problem-solving ability. The end result is a polished math quiz app that can form a solid portfolio piece.
+
+### Credits
+
+- Inspired by a tutorial by Tech With Tim
+
+The original tutorial this code is based on is by "Tech With Tim" and can be found here: [link](https://youtu.be/21FnnGKSRZo?t=2382)
+
+## Contributing
+
+Contributions are welcome! Please open an issue or PR for any enhancements.
+
+### License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+Have fun playing the "Math Quiz"!
